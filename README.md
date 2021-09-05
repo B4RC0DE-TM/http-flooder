@@ -1,2 +1,2 @@
 # http-flooder
-A URL HTTP-Flooder using Proxies
+An URL HTTP-Flooder using Proxies
